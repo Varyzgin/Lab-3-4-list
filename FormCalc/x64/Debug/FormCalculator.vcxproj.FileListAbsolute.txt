@@ -1,0 +1,4 @@
+D:\Files\source\repos\1 StacksQueuesLists\FormCalc\x64\Debug\FormCalculator.vcxproj.AssemblyReference.cache
+D:\Files\source\repos\1 StacksQueuesLists\FormCalc\x64\Debug\FormCalculator.vcxproj.SuggestedBindingRedirects.cache
+D:\Files\source\repos\1 StacksQueuesLists\FormCalc\x64\Debug\FormCalc.MyForm.resources
+D:\Files\source\repos\1 StacksQueuesLists\FormCalc\x64\Debug\FormCalculator.vcxproj.GenerateResource.cache
